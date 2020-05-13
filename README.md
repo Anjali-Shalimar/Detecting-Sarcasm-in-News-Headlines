@@ -1,5 +1,5 @@
 # Detecting Sarcasm in News Headlines
-The analysis uses Recurrent Neural Networks , LSTM and NLP techniques in Python to classify a given news headline as sarcastic or otherwise. 
+The analysis uses Recurrent Neural Networks , LSTM and NLP techniques in Python to identify a given news headline as sarcastic or otherwise. 
 
 ## **Recommended platform to run the code file**
 
