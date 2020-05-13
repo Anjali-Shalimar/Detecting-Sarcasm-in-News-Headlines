@@ -17,5 +17,5 @@ It is recommended to run the IPYNB file on **Google Colab**, as it comes with an
 
 ## **Storing the data files and reading the files**
 
-The data file has been stored in google drive. The same file has been invoked in the code ( under the sections **"Google drive mount"** and **"Data read-in"**). This is a great way to secure our data files.
+The data file has been stored in google drive. The same file has been invoked in the code ( under the sections **'Google drive mount'** and **'Data read-in'**). This is a great way to secure our data files.
 
